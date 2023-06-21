@@ -1,0 +1,9 @@
+{ 
+    
+    "storeHouse": [
+        {
+            "sourceName": "📛测试📛",
+            "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/jx7520/Box/main/1.txt"
+        }
+    ]
+}

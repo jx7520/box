@@ -1,8 +1,8 @@
 {
 sites": [    
     {
-      "key": "老鸭",
-      "name": "老鸭",
+      "key": "laoya",
+      "name": "laoya",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,

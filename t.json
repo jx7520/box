@@ -1,8 +1,8 @@
 {
 "sites": [    
     {
-      "key": "ÀÏÑ¼",
-      "name": "ÀÏÑ¼",
+      "key": "è€é¸­",
+      "name": "è€é¸­",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,

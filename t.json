@@ -1,0 +1,13 @@
+{
+"sites": [    
+    {
+      "key": "¿œ—º",
+      "name": "¿œ—º",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+]
+}

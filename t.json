@@ -9,16 +9,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "百度云",
-      "name": "百度云",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    
 ]
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},

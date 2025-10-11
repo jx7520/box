@@ -15,7 +15,7 @@
       "key": "❤91麻豆",
       "name": "❤91麻豆源",
       "type": 1,
-      "api": "https://18md.me/api.php/provide/vod/",
+      "api": "http://18md.me/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0

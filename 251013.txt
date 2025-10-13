@@ -1,0 +1,9 @@
+ {
+      "key": "KxrbspE",
+      "name": "*水*机",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },

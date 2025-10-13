@@ -72,6 +72,40 @@
       "searchable": 0,
       "quickSearch": 0
     },
+    {
+      "key": "*环亚",
+      "name": "环亚",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
+    },
+{
+      "key": "cjmygzy.com",
+      "name": "小美眉",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "filterable": 1
+    },
+{ "key": "KpgxdyE", 
+"name": "黄AV资源(已修复)", 
+"type": 0, 
+"api": "https://www.pgxdy.com/api/xml.php", 
+"searchable": 1, 
+"quickSearch": 1, 
+"filterable": 1 
+},
+  {
+      "key": "*Sm",
+      "name": "*Sm",
+      "type": 0,
+      "api": "https://api.maozyapi.com/inc/api.php"
+    },
+{
+      "key": "*白嫖",
+      "name": "*白嫖",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php"
+    },
   ],
 "lives":[{"name":"太阳","type":0,"url":"https://raw.githubusercontent.com/lllyin/assets/master/xxx.png"}],
   "parses": [
